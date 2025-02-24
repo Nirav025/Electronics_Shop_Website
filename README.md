@@ -23,5 +23,5 @@ A simple electronics shop website built using pure HTML & CSS. This project show
 1. HTML5 for structuring content
 2. CSS3 for styling and layout
 
-# Output :
+# 📸 Project Preview :
 <img width="100%" src="./Electronics_Shop_Website.png">
